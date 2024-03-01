@@ -3,3 +3,9 @@ Cohort analysis groups the users into mutually exclusive groups and their behavi
 
 I created a Tableau dashboard for the cohort project. If you want to see the details, check out my dashboard in the link below.
 https://public.tableau.com/app/profile/m.alipour/viz/OnlineRetailIIUCI-CohortAnalysis/CohortAnalysis
+
+
+![image](https://github.com/MasoumehAlipour/R-Cohort-Analysis/assets/70625442/f9c3a76d-30cb-4698-9efc-27f4d7629984)
+
+
+![image](https://github.com/MasoumehAlipour/R-Cohort-Analysis/assets/70625442/c02421d7-5f2a-43e8-a052-f3b98bb67175)

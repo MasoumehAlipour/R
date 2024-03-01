@@ -4,7 +4,10 @@ Cohort analysis groups the users into mutually exclusive groups and their behavi
 This data set is related to Online Retail II UCI, it is a real online retail transaction data set of two years.
 
 I created a Tableau dashboard for the cohort project. If you want to see the details, check out my dashboard in the link below.
-https://public.tableau.com/app/profile/m.alipour/viz/OnlineRetailIIUCI-CohortAnalysis/CohortAnalysis
+[My cohort dashboard](https://public.tableau.com/app/profile/m.alipour/viz/OnlineRetailIIUCI-CohortAnalysis/CohortAnalysis)
+<br/>
+<br/>
+
 
 
 ![image](https://github.com/MasoumehAlipour/R-Cohort-Analysis/assets/70625442/f9c3a76d-30cb-4698-9efc-27f4d7629984)
